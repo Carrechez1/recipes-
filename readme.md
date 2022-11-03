@@ -23,3 +23,13 @@ Orden
 6. controladores
 7. servicios
 8. rutas
+
+git remote set-url origin "URL del repositorio nuevo"
+
+git remote
+
+gut push -u origin main
+
+npx mocha ./test/ejemplo.test.js
+
+npm install @faker-js/faker --save-dev
